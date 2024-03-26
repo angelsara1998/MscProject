@@ -30,15 +30,15 @@ git clone https://github.com/angelsara1998/MscProject.git
 
 - *2.Install dependencies:*
 -conda create --name highwayenv python==3.9  
-- pip install numpy
--pip install pandas
--pip install matplotlib
--pip install scikit-learn
--pip install opencv-python 
--pip install tensorflow
--pip install flask
--pip install serpapi
--pip install sklearn
+- ```pip install numpy```
+-```pip install pandas```
+-```pip install matplotlib```
+-```pip install scikit-learn```
+-```pip install opencv-python``` 
+-```pip install tensorflow```
+-```pip install flask```
+-```pip install serpapi```
+-```pip install sklearn```
 
 
 
