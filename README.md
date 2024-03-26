@@ -30,15 +30,15 @@ git clone https://github.com/angelsara1998/MscProject.git
 
 ## 2.Install dependencies:
 -conda create --name highwayenv python==3.9  
-- ```pip install numpy```
--```pip install pandas```
--```pip install matplotlib```
--```pip install scikit-learn```
--```pip install opencv-python``` 
--```pip install tensorflow```
--```pip install flask```
--```pip install serpapi```
--```pip install sklearn```
+ - ```pip install numpy```
+- ```pip install pandas```
+- ```pip install matplotlib```
+- ```pip install scikit-learn```
+- ```pip install opencv-python``` 
+- ```pip install tensorflow```
+- ```pip install flask```
+- ```pip install serpapi```
+- ```pip install sklearn```
 
 
 
@@ -54,10 +54,10 @@ git clone https://github.com/angelsara1998/MscProject.git
 
 
 ## Features
-- *Train a CNN model with a dataset  :* Preprocess a Kaggle dataset of fashion clothing images and train a MobileNetV2 model and saves the .h5 model file
-- *External API Integration:* The intermediary between the Android application and the externally hosted CNN model is a Flask based web application.
-- *Android Development:* The application provides interface to the user for accessing the functionalities of the system such as providing the image input and viewing the product search information.
-- *Evaluation Metrics:* Metrics to assess the accuracy the precision score and accuracy of the prediction model.
+- Train a CNN model with a dataset  : Preprocess a Kaggle dataset of fashion clothing images and train a MobileNetV2 model and saves the .h5 model file
+- External API Integration: The intermediary between the Android application and the externally hosted CNN model is a Flask based web application.
+- Android Development: The application provides interface to the user for accessing the functionalities of the system such as providing the image input and viewing the product search information.
+- Evaluation Metrics: Metrics to assess the accuracy the precision score and accuracy of the prediction model.
 
 ## Contribution Guidelines
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
