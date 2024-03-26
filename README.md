@@ -28,7 +28,7 @@ The aim of this project is to design and develop an application for identifying 
 git clone https://github.com/angelsara1998/MscProject.git
 
 
-- *2.Install dependencies:*
+- **2.Install dependencies:*
 -conda create --name highwayenv python==3.9  
 - ```pip install numpy```
 -```pip install pandas```
