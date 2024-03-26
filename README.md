@@ -11,11 +11,11 @@ This repository is dedicated to the development of an application for identifyin
 
 ## Description
 The aim of this project is to design and develop an application for identifying products from images through the following objectives:
-*.* To train a CNN model to classify fashion and clothing products from images
-*.* To design an application in Android Studio that enables usersto capture and upload images for classification.
-*.* To implement a system through Android studio , to transfer the image to an externally hosted CNN model via an API through a POST request.
-*.* To integrate the application with the Google Search API to retrieve product information.
-*.* To effectively display product information through the mobile application for user experience.
+- To train a CNN model to classify fashion and clothing products from images
+- To design an application in Android Studio that enables usersto capture and upload images for classification.
+- To implement a system through Android studio , to transfer the image to an externally hosted CNN model via an API through a POST request.
+- To integrate the application with the Google Search API to retrieve product information.
+- To effectively display product information through the mobile application for user experience.
 
 ## Table of Contents
 - [Installation](#installation)
